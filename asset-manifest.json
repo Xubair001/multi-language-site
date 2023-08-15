@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/multi-language-site/static/css/main.68797e41.css",
+    "main.js": "/multi-language-site/static/js/main.713eb05c.js",
+    "static/media/chatbox.png": "/multi-language-site/static/media/chatbox.2da3db4bc2696776a52e.png",
+    "static/media/slider4.png": "/multi-language-site/static/media/slider4.947c2693cb8a35de695d.png",
+    "static/media/Slider2.png": "/multi-language-site/static/media/Slider2.86fa21d8ad3e451c8c32.png",
+    "static/media/Slider1.png": "/multi-language-site/static/media/Slider1.11137a89a58feafab898.png",
+    "static/media/Section1.png": "/multi-language-site/static/media/Section1.a154d290f579d16aa8c3.png",
+    "static/media/Services1.png": "/multi-language-site/static/media/Services1.f9e6ce5666d3c09cbb80.png",
+    "static/media/About.png": "/multi-language-site/static/media/About.03fe406dfef2e6ed8b49.png",
+    "static/media/Kamran.jpeg": "/multi-language-site/static/media/Kamran.3479ac92de98be148c57.jpeg",
+    "static/media/Services4.png": "/multi-language-site/static/media/Services4.3370bfb4609e48a4aef0.png",
+    "static/media/Services5.png": "/multi-language-site/static/media/Services5.990ce48d093d61549680.png",
+    "static/media/Services8.png": "/multi-language-site/static/media/Services8.e0cc7c2a4faa590ce8df.png",
+    "static/media/Services2.png": "/multi-language-site/static/media/Services2.45b06e8f8733dcd6cdd3.png",
+    "static/media/Attique.jpeg": "/multi-language-site/static/media/Attique.4542273ad0edc1e53d79.jpeg",
+    "static/media/AboutOverlay.png": "/multi-language-site/static/media/AboutOverlay.c34f6408ba3d9fd8f821.png",
+    "static/media/Services3.png": "/multi-language-site/static/media/Services3.4496fdd95583003a18d2.png",
+    "static/media/Services6.png": "/multi-language-site/static/media/Services6.c46eb19ed7dd6e5cd034.png",
+    "static/media/Services7.png": "/multi-language-site/static/media/Services7.70b041c8c34e6641000f.png",
+    "static/media/AbdulRehmanAlqah.png": "/multi-language-site/static/media/AbdulRehmanAlqah.81ef30914bca3a8049e4.png",
+    "static/media/Abdullah.jpeg": "/multi-language-site/static/media/Abdullah.907ccbd5ee6732960542.jpeg",
+    "static/media/Syne-ExtraBold.ttf": "/multi-language-site/static/media/Syne-ExtraBold.99cf775aa2fb7d59d2da.ttf",
+    "static/media/Syne-Bold.ttf": "/multi-language-site/static/media/Syne-Bold.4f7a3ab12ddb09781520.ttf",
+    "static/media/Syne-Medium.ttf": "/multi-language-site/static/media/Syne-Medium.767c33d27d5f99f3ed3e.ttf",
+    "static/media/icon3.png": "/multi-language-site/static/media/icon3.8c7597682d38be24c189.png",
+    "index.html": "/multi-language-site/index.html",
+    "static/media/call.svg": "/multi-language-site/static/media/call.08cd1b17f092340ecf506cb9e97cf426.svg",
+    "main.68797e41.css.map": "/multi-language-site/static/css/main.68797e41.css.map",
+    "main.713eb05c.js.map": "/multi-language-site/static/js/main.713eb05c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68797e41.css",
+    "static/js/main.713eb05c.js"
+  ]
+}
