@@ -1,0 +1,22 @@
+.bg-Team{
+    background-color:rgba(8, 25, 47, 1);
+}
+.chat{
+    background-color:rgba(2, 32, 42, 1);
+    padding:2rem;
+}
+.chat-flex{
+    padding:2rem;
+    margin:2rem;
+}
+.TeamHeading{
+    font-family:Syne;
+    font-size:48px;
+    font-weight:700;
+}
+.TeamSpan{
+    color:rgba(30, 235, 179, 1);
+}
+.team{
+    height: 20rem;
+}

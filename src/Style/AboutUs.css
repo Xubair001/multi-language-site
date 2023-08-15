@@ -1,0 +1,40 @@
+
+
+.bg-AboutUs{
+    background-color:rgba(8, 25, 47, 1);
+}
+
+.heading-contact{
+    font-weight:600;
+    font-family:Syne;
+    font-size:32px;
+    max-width:100%;
+}
+.para-contact{
+    font-weight:300;
+    font-family:Syne;
+    font-size:16px;
+    max-width:100%;
+    margin-top:1rem;
+}
+
+.imageBlock1{
+    width: 20rem;
+    float: right;
+}
+.imageBlock2{
+  width: 15rem;
+  transform: translate(60%);
+
+}
+.images-contact{
+    position:relative;
+    margin-bottom:1rem ;
+    max-width:100%;
+}
+.image_div2{
+    position:absolute;
+    bottom:-27%;
+    right:65%;
+    max-width:100%;
+}

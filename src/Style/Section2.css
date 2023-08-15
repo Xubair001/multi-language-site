@@ -1,0 +1,30 @@
+.bg-section2{
+    background-color: rgba(8, 25, 47, 1);
+}
+.section2-heading{
+        max-width:100%;
+        font-family: Syne;
+        font-weight: 600;
+        font-size: 32px;
+        width: 401px;     
+}
+.section2-para{
+    
+        font-family: Syne;
+        font-weight: 400;
+        font-size: 14px;
+        max-width:390px;  
+}
+.section2-btn{
+        max-width:183px;
+        border-radius: 104px;
+        background-color: rgba(30, 235, 179, 1);
+        padding: 20px 32px;
+      
+}
+.section2-box{
+    background-color: rgba(8, 28, 52, 1);
+}
+.section2-box2{
+    background-color: rgba(12, 71, 79, 1);
+}

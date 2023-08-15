@@ -1,0 +1,29 @@
+.bg-keyNumber{
+    background-color:rgba(2, 32, 42, 1);
+}
+.keyNumber-Heading{
+    font-weight:700;
+    font-size:32px;
+}
+.keyNumber-para{
+    max-width:401px;
+    font-weight:400;
+    font-size:16px;
+}
+.keyNumber-btn{
+    background-color:rgba(30, 235, 179);
+    border-radius:2rem ;
+    width:10rem;
+    font-weight: 400;
+}
+.rate{
+    
+  padding:1rem;
+  background-color: rgba(10, 59, 67, 1);
+    border-radius:16px;
+    max-width:500px;
+}
+.rate-heading{
+    color:rgba(30, 235, 179, 1) ;
+    cursor:pointer;
+}

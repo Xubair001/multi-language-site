@@ -1,0 +1,31 @@
+.bg-chatForm{
+    background-color:rgba(8, 25, 47, 1);
+}
+.chat-typeColor{
+    background-color:rgba(142, 181, 232, 1);
+    padding:1rem 0rem;
+    max-width:14rem;
+}
+.chat-type{
+    
+    
+    padding:1rem 0rem;
+    max-width:14rem;
+}
+.chat-typeBox{
+    width:24px;
+    margin-right:1rem;
+}
+.chat-typeText{
+    font-weight:600;
+}
+.chatForm-btn{
+    border-radius:104px;
+    font-weight:600;
+    background-color:rgba(30, 235, 179, 1);
+    padding:1rem 4rem;
+}
+.chatForm-img{
+    margin:0.2rem;
+    max-width:100%;
+}

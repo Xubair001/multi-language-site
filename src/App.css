@@ -1,0 +1,13 @@
+@font-face {
+    font-family: Syne-arabic;
+    src: url(../public/Syne-ExtraBold.ttf);
+  }
+  
+  @font-face {
+    font-family: SyneMedium;
+    src: url(../public/Syne-Medium.ttf);
+  }
+  @font-face {
+    font-family: Bebas;
+    src: url(../public/Syne-ExtraBold.ttf);
+  }

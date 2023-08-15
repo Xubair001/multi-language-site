@@ -1,0 +1,27 @@
+.bg_slider{
+    background-color:rgba(2, 32, 42, 1);
+}
+.heading_slider{
+    font-weight: 600px;
+    font-size:32px;
+    max-width: 35rem;
+}
+.slider_innerHeading{
+    color:rgba(26, 149, 166, 1);
+}
+.slider_button{
+    border-radius:3rem ;
+    background-color:rgba(2, 32, 42, 1);
+}
+.slider_point{
+    background-color:rgba(12, 71, 79, 1);
+}
+.point_image{
+    background-color:rgba(8, 28, 52, 1);
+    padding:2px;
+    border-radius:30px;
+}
+.slider_btn{
+    border:2px solid rgba(26, 149, 166, 1);
+    width:100%;
+}

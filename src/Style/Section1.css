@@ -1,0 +1,19 @@
+.bg-section1{
+    background-size:cover;
+    background-position:center;
+}
+
+.paraContact{
+        
+        font-family: Syne;
+        font-weight: 500;
+        font-size: 16px;
+        max-width:25rem;
+      
+}
+.btnContact{
+        border-radius: 104px;
+        background-color: rgba(2, 32, 42, 1);
+        padding: 20px 40px;
+      
+}

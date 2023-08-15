@@ -1,0 +1,9 @@
+.bg-section3{
+    background-color:rgba(8, 25, 47, 1);
+}
+.small-box{
+    background-color:rgba(11, 33, 60, 1);
+    border-radius: 10px;
+    margin:0rem 1rem;
+    padding: 1rem 2rem;
+  }

@@ -1,0 +1,20 @@
+.bg-services
+{ 
+    background-color: rgba(2, 32, 42, 1);
+
+}
+.images{
+    background-size:cover ;
+    height:12rem;
+    background-position:center;
+}
+.parallax {
+    perspective: 1px;
+    transform-style: preserve-3d;
+    transition: transform 0.5s;
+  }
+  
+  .parallax:hover {
+    transform: translateZ(0.2px);
+    cursor: pointer;
+  }
